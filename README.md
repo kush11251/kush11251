@@ -1,12 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kussagra%20Pathak&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" alt="Kussagra Pathak" />
+  <img src="./assets/header.svg" alt="Kussagra Pathak — Full-Stack & Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Angular+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+Go;Building+real-time+apps+with+Socket.IO;Self-hosting+on+a+Raspberry+Pi+%F0%9F%8D%93;Currently+building+Jiffly+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="./assets/typing.svg" alt="Angular • Flutter • Node.js • Go" />
 </p>
 
 <p align="center">
@@ -145,5 +143,5 @@ I'm a developer from **India** 🇮🇳 who has been shipping apps since 2020, s
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+  <img src="./assets/footer.svg" alt="" width="100%" />
 </p>
